@@ -1,0 +1,16 @@
+{
+  "name": "projectchariot",
+  "version": "1.0.0",
+  "description": "A discord server management bot with an economy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MoonWolf63",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "discord.js": "^14.7.1",
+    "mysql": "^2.18.1"
+  }
+}
